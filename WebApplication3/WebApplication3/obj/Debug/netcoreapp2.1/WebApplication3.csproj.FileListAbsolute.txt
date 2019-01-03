@@ -1,0 +1,28 @@
+D:\Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.deps.json
+D:\Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.json
+D:\Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.dev.json
+D:\Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.dll
+D:\Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.pdb
+D:\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csproj.CoreCompileInputs.cache
+D:\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cache
+D:\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cs
+D:\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfoInputs.cache
+D:\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfo.cs
+D:\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorTargetAssemblyInfo.cache
+D:\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.dll
+D:\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.pdb
+D:\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\MA Hang\Desktop\销售管理系统\WebApplication3\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.deps.json
+C:\Users\MA Hang\Desktop\销售管理系统\WebApplication3\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.json
+C:\Users\MA Hang\Desktop\销售管理系统\WebApplication3\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.dev.json
+C:\Users\MA Hang\Desktop\销售管理系统\WebApplication3\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.dll
+C:\Users\MA Hang\Desktop\销售管理系统\WebApplication3\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.pdb
+C:\Users\MA Hang\Desktop\销售管理系统\WebApplication3\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\MA Hang\Desktop\销售管理系统\WebApplication3\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\MA Hang\Desktop\销售管理系统\WebApplication3\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cache
+C:\Users\MA Hang\Desktop\销售管理系统\WebApplication3\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cs
+C:\Users\MA Hang\Desktop\销售管理系统\WebApplication3\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\MA Hang\Desktop\销售管理系统\WebApplication3\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfo.cs
+C:\Users\MA Hang\Desktop\销售管理系统\WebApplication3\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\MA Hang\Desktop\销售管理系统\WebApplication3\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.dll
+C:\Users\MA Hang\Desktop\销售管理系统\WebApplication3\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.pdb
